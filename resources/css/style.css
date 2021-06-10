@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    font-weight: normal;
+ }
+
+ h1 {
+     font-size: 50px;
+ }
+
+ a {
+     color: aquamarine;
+     font-size: 16;
+     font-weight: normal;
+     text-align: center;
+ }
+
+video {
+    object-fit: contain;
+}
+
+
+ h2 {
+     font-weight: 300;
+     font-size: 42px;
+ }
+
+ h3 {
+     font-size: 21px;
+     color: gray;
+ }
+
+ #footer {
+     text-align: right;
+     color: gray;
+ }
+
+
